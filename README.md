@@ -1,2 +1,2 @@
-# FinalPythonProject
+#Carbon Footprint Calculator
 The Carbon Footprint Calculator is a desktop‑application built in Python using a GUI interface to help users estimate the annual carbon dioxide footprint of their everyday habits. By collecting daily data on travel, electricity usage, and diet type, the app applies standard emission factors to compute annual emissions in kilograms and tons of CO₂. The tool classifies the user’s footprint, offers eco‑friendly suggestions, and displays a pie‑chart breakdown, promoting awareness and behavioural change.
